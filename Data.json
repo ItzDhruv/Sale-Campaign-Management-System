@@ -1,0 +1,230 @@
+[
+  {
+    "title": "Pen",
+    "mrp": 150.00,
+    "currentPrice": 140.00,
+    "inventory": 80
+  },
+  {
+    "title": "Pencil",
+    "mrp": 120.00,
+    "currentPrice": 110.00,
+    "inventory": 95
+  },
+  {
+    "title": "Mobile",
+    "mrp": 5000.00,
+    "currentPrice": 4800.00,
+    "inventory": 50
+  },
+  {
+    "title": "Laptop",
+    "mrp": 8000.00,
+    "currentPrice": 7500.00,
+    "inventory": 30
+  },
+  {
+    "title": "Headphones",
+    "mrp": 250.00,
+    "currentPrice": 220.00,
+    "inventory": 65
+  },
+  {
+    "title": "T-Shirt",
+    "mrp": 300.00,
+    "currentPrice": 280.00,
+    "inventory": 75
+  },
+  {
+    "title": "Shoes",
+    "mrp": 800.00,
+    "currentPrice": 750.00,
+    "inventory": 40
+  },
+  {
+    "title": "Backpack",
+    "mrp": 400.00,
+    "currentPrice": 380.00,
+    "inventory": 110
+  },
+  {
+    "title": "Sunglasses",
+    "mrp": 350.00,
+    "currentPrice": 320.00,
+    "inventory": 90
+  },
+  {
+    "title": "Watch",
+    "mrp": 200.00,
+    "currentPrice": 190.00,
+    "inventory": 55
+  },
+  {
+    "title": "Camera",
+    "mrp": 7000.00,
+    "currentPrice": 6800.00,
+    "inventory": 70
+  },
+  {
+    "title": "Television",
+    "mrp": 9000.00,
+    "currentPrice": 8800.00,
+    "inventory": 85
+  },
+  {
+    "title": "Book",
+    "mrp": 200.00,
+    "currentPrice": 190.00,
+    "inventory": 60
+  },
+  {
+    "title": "Gaming Console",
+    "mrp": 550.00,
+    "currentPrice": 520.00,
+    "inventory": 110
+  },
+  {
+    "title": "Desk Chair",
+    "mrp": 4000.00,
+    "currentPrice": 3800.00,
+    "inventory": 30
+  },
+  {
+    "title": "Desk",
+    "mrp": 800.00,
+    "currentPrice": 750.00,
+    "inventory": 65
+  },
+  {
+    "title": "Art Supplies",
+    "mrp": 150.00,
+    "currentPrice": 140.00,
+    "inventory": 75
+  },
+  {
+    "title": "Smart Speaker",
+    "mrp": 300.00,
+    "currentPrice": 280.00,
+    "inventory": 80
+  },
+  {
+    "title": "Mouse",
+    "mrp": 100.00,
+    "currentPrice": 90.00,
+    "inventory": 45
+  },
+  {
+    "title": "Keyboard",
+    "mrp": 120.00,
+    "currentPrice": 110.00,
+    "inventory": 60
+  },
+  {
+    "title": "Monitor",
+    "mrp": 600.00,
+    "currentPrice": 580.00,
+    "inventory": 70
+  },
+  {
+    "title": "Speaker System",
+    "mrp": 250.00,
+    "currentPrice": 220.00,
+    "inventory": 55
+  },
+  {
+    "title": "Desk Lamp",
+    "mrp": 50.00,
+    "currentPrice": 40.00,
+    "inventory": 90
+  },
+  {
+    "title": "Coffee Maker",
+    "mrp": 200.00,
+    "currentPrice": 190.00,
+    "inventory": 75
+  },
+  {
+    "title": "Toaster",
+    "mrp": 80.00,
+    "currentPrice": 70.00,
+    "inventory": 85
+  },
+  {
+    "title": "Blender",
+    "mrp": 150.00,
+    "currentPrice": 140.00,
+    "inventory": 55
+  },
+  {
+    "title": "Vacuum Cleaner",
+    "mrp": 300.00,
+    "currentPrice": 280.00,
+    "inventory": 65
+  },
+  {
+    "title": "Hair Dryer",
+    "mrp": 40.00,
+    "currentPrice": 35.00,
+    "inventory": 100
+  },
+  {
+    "title": "Microwave Oven",
+    "mrp": 500.00,
+    "currentPrice": 480.00,
+    "inventory": 40
+  },
+  {
+    "title": "Refrigerator",
+    "mrp": 800.00,
+    "currentPrice": 750.00,
+    "inventory": 100
+  },
+  {
+    "title": "Washing Machine",
+    "mrp": 600.00,
+    "currentPrice": 580.00,
+    "inventory": 100
+  },
+  {
+    "title": "Tennis Racket",
+    "mrp": 150.00,
+    "currentPrice": 140.00,
+    "inventory": 100
+  },
+  {
+    "title": "Soccer Ball",
+    "mrp": 25.00,
+    "currentPrice": 20.00,
+    "inventory": 100
+  },
+  {
+    "title": "Basketball",
+    "mrp": 30.00,
+    "currentPrice": 25.00,
+    "inventory": 100
+  },
+  {
+    "title": "Hiking Boots",
+    "mrp": 200.00,
+    "currentPrice": 190.00,
+    "inventory": 100
+  },
+  {
+    "title": "Running Shoes",
+    "mrp": 150.00,
+    "currentPrice": 140.00,
+    "inventory": 100
+  },
+  {
+    "title": "Sweater",
+    "mrp": 100.00,
+    "currentPrice": 90.00,
+    "inventory": 100
+  },
+  {
+    "title": "Jeans",
+    "mrp": 250.00,
+    "currentPrice": 220.00,
+    "inventory": 100
+  }
+]
