@@ -1,1 +1,1 @@
-This repository contains a Java Spring Boot project for a Sale Campaign Management System. The system allows for the management of products, their pricing history, and the creation of sale campaign…
+
